@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Output files
+*.out
+*.pdf
+*.png
+*.jpg
+
+# Machine learning artifacts
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+*.pt
+*.pth
+*.tflite
+model/
+
+# Large data files
+*.csv
+*.tsv
+*.parquet
+*.zip
+*.tar.gz
+data/
+datasets/
+
+# System files
+.DS_Store
+Thumbs.db
+
+
